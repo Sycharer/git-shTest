@@ -10,5 +10,5 @@ hello git! hello wrold!
 hello git! hello wrold!
 hello git! hello wrold!
 hello git! hello wrold!
-hello git! hello wrold! mastertest
-hello git! hello wroldend! 
+hello git! hello wrold! mastertet
+hello git! hello wroldend! hot-fix test
